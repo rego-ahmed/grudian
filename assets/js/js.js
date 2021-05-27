@@ -1,0 +1,1 @@
+alert("Please note that all other notifications will stop");
